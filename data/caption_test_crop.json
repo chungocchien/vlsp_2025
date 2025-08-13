@@ -1,0 +1,2010 @@
+[
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_11_0.39.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tam giác đều, màu sắc là nền đỏ với viền trắng và hình bên trong là chữ \"A\" màu đen."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_13_1_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cung đường cong phải**. Biển có **hình tam giác** với **màu nền đỏ**, viền trắng và hình mũi tên màu đen chỉ hướng sang phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_1_0.79.jpg",
+        "caption": "Biển báo trong ảnh là **biển chỉ dẫn** (thông tin bổ sung), có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và ký hiệu màu trắng**. Nội dung biển báo cung cấp thông tin về số điện thoại hỗ trợ và các dịch vụ liên quan đến đường cao tốc."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_10_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ trắng**. Nội dung biển báo là: \"ĐÈN ĐỎ - ĐƯỢC PHÉP ĐI THẲNG\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_9_2_0.73.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo \"Đi chậm\"**, có hình dạng tam giác đều, màu nền vàng và chữ đen. Biển này dùng để cảnh báo người điều khiển phương tiện cần giảm tốc độ khi đến khu vực nguy hiểm hoặc cần thận trọng."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_7_4_0.71.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi**, có hình dạng **hình tam giác** với góc tù ở bên phải, màu sắc **xanh dương nền và chữ trắng**. Biển báo này chỉ hướng rẽ phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_7_6_0.47.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_8_2_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và hình trắng**. Biển báo này chỉ hướng đi dành cho các phương tiện giao thông theo các làn đường được đánh dấu."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_1_0.83.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **hình vuông**, màu sắc **nền trắng, chữ và viền đen**. Nội dung biển báo cấm \"CƠM NHẬU BÚN\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_3_0.63.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo hướng dẫn đường cao tốc** (CT.01). Biển có hình chữ nhật, nền màu xanh lá cây, chữ và số màu trắng. Phía dưới có hai vòng tròn nhỏ: một đỏ (80) và một xanh dương (60), chỉ tốc độ tối đa cho các làn đường khác nhau. Biển này cung cấp thông tin về đường cao tốc Cao Bồ - Mai Sơn Expressway."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_11_0.68.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường dành riêng cho xe máy**. Biển có hình dạng **hình tròn**, viền màu **xanh dương**, nền màu **trắng**, và có biểu tượng một người lái xe máy ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_11_2_0.72.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa (ví dụ: \"CAT\" hoặc các ký tự khác). Biển này thường dùng để cấm một hành động hoặc vật cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_2_0.77.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo thời gian cấm**. Biển có hình chữ nhật, màu nền xanh dương, chữ và số màu trắng, nội dung ghi rõ khoảng thời gian cấm từ **6:00 - 23:00**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_9_0.48.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng chữ nhật, màu nền xanh dương đậm và chữ trắng. Nội dung trên biển báo là \"ĐIỂM KHÔNG ĐỖ XE\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_7_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe hơi bị gạch chéo màu **đen**. Biển báo này thông báo cấm xe cơ giới đi vào khu vực hoặc đường được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_3_3_0.7.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tam giác đều, màu sắc nền vàng và chữ \"BÍ CHẬM\" màu đen. Biển này cảnh báo người điều khiển phương tiện không được bí chậm trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_11_4_0.58.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hình chữ nhật màu **đen** bên trong. Biển báo này cấm các phương tiện đi vào hoặc dừng lại tại khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_7_0.38.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, màu sắc **đỏ viền trắng** và chữ đen bên trong. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_13_6_0.3.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải bị **gạch chéo** màu **đỏ**, biểu thị cấm xe tải đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_10_1_0.82.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo thời gian hoạt động**, có hình dạng **hình chữ nhật**, màu sắc **đen nền với chữ và số màu trắng**. Nội dung biển báo chỉ định khoảng thời gian từ **06:00 đến 22:00**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_6_3_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải bị **gạch chéo** màu **đỏ**, biểu thị cấm xe tải đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_9_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và hình vẽ một chiếc xe bị chéo斜 (cấm xe)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_11_2_0.73.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng tam giác đều, màu sắc nền vàng với viền đen và chữ \"CẤM\" màu đỏ ở giữa. Nội dung biển báo cảnh báo cấm xe vào khu du lịch hoặc khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_3_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương đậm** với các biểu tượng trắng (xe ô tô và xe máy) bên trong. Biển báo này thông báo cấm xe ô tô và xe máy đi vào khu vực hoặc đường được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_11_6_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật** với **màu nền đỏ**, viền trắng và chữ \"CẤM\" màu trắng bên trong. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_5_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** với **màu nền trắng**, viền **đen**, và chữ/cảnh báo bằng **chữ đen**. Nội dung trên biển báo là \"Cấm xe tải có tải trọng lớn hơn 3 tấn vào đường này\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_1_1_0.64.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen với dấu chéo đỏ. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_21_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình ảnh một dấu chéo màu **đỏ** qua biểu tượng xe ô tô. Biển này báo hiệu **cấm xe ô tô đi vào**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_1_2_0.77.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình ảnh các phương tiện bị cấm (xe buýt và xe tải) ở giữa. Biển báo này có màu nền trắng, viền đỏ, và hình ảnh đen."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_3_0.75.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền xanh dương, bên trong là hình tam giác màu trắng. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_8_2_0.64.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cự ly** (hoặc biển báo khoảng cách), có hình dạng **hình chữ nhật**, màu sắc **trắng nền với chữ và ký hiệu đen**. Nội dung trên biển báo cho biết còn **800m** đến điểm cần chú ý hoặc vị trí sắp tới."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_1_5_0.36.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật đứng**, màu sắc **đỏ nền với chữ và hình vẽ màu trắng**. Nội dung trên biển báo là \"CẤM XE MÁY\" (hoặc tương tự)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_10_3_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh một chiếc xe tải kèm dòng chữ \"2,5t\" (cấm xe tải có tải trọng trên 2,5 tấn). Biển báo này dùng để cấm các phương tiện tải trọng vượt quá giới hạn quy định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_11_5_0.48.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen bên trong. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_13_0_0.78.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền màu đỏ và nền màu trắng, bên trong là hình chữ nhật màu đỏ với dấu chéo màu trắng. Biển báo này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_9_0.71.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình vuông** và màu sắc **đỏ viền trắng**. Nội dung trên biển báo cấm xe ô tô và xe buýt."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_4_0.51.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**. Biển có **hình chữ nhật**, với **màu nền vàng** và **vạch đen dọc ngang**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_7_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình tam giác đen ở giữa. Biển báo này cấm rẽ phải hoặc quẹo phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_13_3_0.54.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn tốc độ**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"60\" ở giữa, màu đen. Biển báo này thông báo tốc độ tối đa cho phép là 60 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_0_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu nền **xanh dương** và chữ/số màu **trắng**. Biển báo này chỉ hướng đi đến **Quận 4 - Đường Hoàng Diệu** với mũi tên chỉ hướng sang phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_10_2_0.41.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo tốc độ tối đa**. Biển có hình tròn, viền đỏ, nền trắng và số \"40\" ở giữa, chỉ định tốc độ tối đa cho phép là 40 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_10_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo thời gian cấm**. Biển có **hình chữ nhật**, **màu nền trắng**, chữ và số màu **đen**, và được giới hạn thời gian từ **06:00 - 22:00**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_2_4_0.36.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen chỉ ra hành động bị cấm. Biển báo này thường được sử dụng để cấm một số hoạt động hoặc phương tiện cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_4_0.52.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng chữ nhật, màu sắc nền trắng với chữ và đường viền đen. Nội dung trên biển báo là \"CHỈ KHÔNG\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_1_2_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe máy**. Biển có hình tròn, viền đỏ, nền trắng, và bên trong là hình ảnh xe máy bị vẽ đường chéo màu đỏ để chỉ cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_18_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình ảnh xe đạp bên trong vòng tròn màu trắng. Biển báo này cấm người đi xe đạp đi vào khu vực hoặc đường được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_2_4_0.32.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đen nền với chữ và hình vẽ màu trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_3_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh một chiếc xe bị vẽ đường chéo màu đỏ, biểu thị **cấm xe cơ giới**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_5_0.69.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo chỉ dẫn cấm**, có hình dạng **hình chữ nhật**, màu sắc **nền trắng, chữ và viền đen**. Nội dung trên biển báo là \"CẤM XE MÁY\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_8_1_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn \"Nơi đỗ xe\"**, có hình dạng **hình vuông**, màu sắc **xanh dương nền với chữ và ký hiệu màu trắng**. Biển này được sử dụng để chỉ định khu vực cho phép đỗ xe trong phạm vi vạch sơn quy định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_5_3_0.86.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo tên đường**, có hình dạng chữ nhật, màu nền xanh dương và chữ trắng. Nội dung trên biển là \"ĐƯỜNG HỒNG HÀ\" (Hong Ha Road)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_6_0.71.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen với biểu tượng xe hơi màu đen. Biển báo này thông báo cấm xe cơ giới đi vào khu vực."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_15_0.48.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn** với viền màu **xanh dương**, nền màu **trắng**, và hình ảnh hai chiếc xe bị **gạch chéo** màu **đen** ở giữa, biểu thị **cấm xe cơ giới đi vào**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_11_1_0.73.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **hình tròn**, màu sắc **đỏ viền trắng** và nội dung \"KHÔNG CÓ HỒI ĐA NANG\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_7_5_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_0_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi** (loại B). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và ký hiệu màu **trắng**. Nội dung biển cung cấp thông tin về các hướng đi đến đường cao tốc HCM - LT - DG (4,5 km), đường Võ Nguyên Giáp (6,0 km) và cầu Thủ Thiêm (2,0 km)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_5_0.7.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm xe cơ giới**. Biển có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **xanh dương**, và có hình ảnh một chiếc xe cơ giới màu trắng ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_1_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường cong phải**. Biển có **hình tròn**, viền màu **đen**, nền màu **xanh dương**, và có một mũi tên màu **trắng** chỉ hướng sang phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_11_0_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường cao tốc**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và hình trắng**. Biển báo này cung cấp thông tin về các tuyến đường cao tốc đi đến Đà Nẵng, Huế, và Quảng Ngãi từ Đại Lộc."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_10_4_0.41.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có một dấu chéo màu **đỏ** ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_1_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường cao tốc**, có hình dạng **hình chữ nhật đứng**, màu nền **xanh dương** và chữ/số màu **trắng**. Biển báo này cung cấp thông tin về hướng đi đến các thành phố: TP. Thủ Đức, TP HCM, Long Thành, và Dầu Giây."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_10_2_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền xanh dương, bên trong là hình tam giác màu trắng. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_11_1_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường một chiều**, có hình dạng **hình tròn**, viền màu **xanh dương** và nội dung là mũi tên màu **trắng** chỉ về phía bên phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_3_2_0.58.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"80\" ở giữa, màu đen. Biển báo này dùng để thông báo tốc độ tối đa mà các phương tiện được phép di chuyển trên đoạn đường đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_11_0.6.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền trắng, nền đỏ và một dấu chéo màu trắng ở giữa. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_5_0.8.jpg",
+        "caption": "Biển báo trong ảnh là **biển chỉ dẫn cấm**.  \n- **Loại**: Biển cấm (cấm người đi bộ).  \n- **Hình dạng**: Hình chữ nhật đứng.  \n- **Màu sắc**: Nền màu trắng, chữ và viền màu đen, có thêm biểu tượng người đi bộ bị gạch chéo màu đỏ.  "
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_7_3_0.58.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ \"TRƯỚC\" màu trắng trên nền đỏ. Biển này cấm các phương tiện đi vào hoặc dừng trước khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_0_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo nguy hiểm** (biển báo cảnh báo), có hình dạng **hình tam giác** với **màu nền xanh dương** và **chữ trắng**. Biển báo này cảnh báo người điều khiển phương tiện sắp đến khu vực có các tòa nhà cao tầng hoặc thành phố."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_11_2_0.82.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung trên biển báo cấm người đi bộ qua đường tại khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_10_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và hình tam giác ngược màu đỏ ở giữa. Biển báo này thường được sử dụng để cấm một số hoạt động hoặc phương tiện tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_4_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có dấu **X** màu **đỏ** ở giữa. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_7_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen chỉ hướng phải, biểu thị **cấm rẽ phải**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_5_0_0.44.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tam giác đều, màu sắc là nền vàng với viền đen và chữ \"CẤM\" màu đen ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_4_2_0.47.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **cột thẳng đứng** với **hai thanh ngang màu đỏ** trên nền trắng. Biển báo này thường được sử dụng để cấm các phương tiện đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_0_0.76.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có một dấu **chấm than đỏ** ở giữa. Biển này thường được sử dụng để cấm xe đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_2_1_0.8.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và bên trong là một dấu chéo màu **đỏ**. Biển báo này thường được sử dụng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_5_2_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa. Biển báo này thường cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_4_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **bảng chữ nhật** với **màu nền đỏ**, viền trắng và chữ đen. Nội dung trên biển báo là \"NO PARKING ANYTIME\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_3_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **xanh nền trắng chữ và mũi tên**. Biển báo này chỉ hướng đi đến các địa điểm như \"Bến xe\" và \"Phố Lê Lợi\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_0_0.73.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ, nền xanh dương và một dấu \"X\" màu trắng ở giữa. Biển này thường được sử dụng để cấm tất cả các phương tiện đi vào khu vực hoặc đường phố được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_2_2_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển限速 (giới hạn tốc độ)**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"40\" màu đen ở giữa, chỉ định tốc độ tối đa cho phép là 40 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_3_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cảnh báo công trình**. Biển có **hình chữ nhật**, **màu nền xanh dương**, chữ viết màu trắng và cảnh báo về công trình sắp tới cách đó 150m."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_3_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường** (loại 3), có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và số màu trắng**. Biển báo này chỉ hướng đi đến **Ngã Ba Huế** cách đó **3 km**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_8_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường** (loại biển chỉ dẫn hướng đi). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và ký hiệu màu **trắng**. Biển cung cấp thông tin về các hướng đi đến các quận/quận như: \"HƯỚNG ĐI QUẬN QUẬN 4\", \"CẦU TÂN THUẬN 1\", và \"CẦU TÂN THUẬN 2\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_6_4_0.77.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình ảnh một chiếc xe đạp bị vẽ đường chéo màu đỏ qua. Biển báo này thông báo **cấm xe đạp đi vào khu vực này**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_9_0_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển báo này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_7_0.6.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng. Bên trong là biểu tượng mũi tên hướng lên và xuống, được khoanh tròn bằng đường kẻ đỏ, thể hiện hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_13_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo \"Đi chậm\"**, có hình dạng tam giác đều, màu sắc nền vàng và chữ đen."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_10_1_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn** (hoặc biển báo thông tin). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và số màu **trắng**. Nội dung trên biển là \"TỔNG ĐÀI TƯ VẤN\" kèm số điện thoại \"1900.6172\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_6_0_0.82.jpg",
+        "caption": "Biển báo là **biển cấm người đi bộ**, có hình dạng tròn với viền đỏ và một đường chéo màu đỏ qua hình ảnh người đi bộ đen trên nền trắng. Biển báo này thông báo rằng không được phép người đi bộ vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_4_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo tốc độ tối đa**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"80\" màu đen ở giữa, kèm theo biểu tượng cột cờ bên dưới. Biển báo này cảnh báo người điều khiển phương tiện không được vượt quá tốc độ 80 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_2_0.89.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường** (loại biển xanh dương). Biển có hình chữ nhật, với các mũi tên chỉ hướng và nội dung ghi rõ các địa điểm như \"Huyện Bình Chánh,\" \"Chợ Bình Tây,\" \"Cầu Ông Lãnh,\" và \"Chợ Bến Thành.\" Dưới cùng có số \"100M\" để chỉ khoảng cách. Màu sắc chính là xanh dương và trắng."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_6_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị **cấm xe tải** đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_8_1_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo thời gian cấm**. Biển có **hình chữ nhật**, **màu nền trắng**, viền đen, và chữ/các ký hiệu màu đen. Nội dung biển báo chỉ rõ các khung giờ cấm (6:00 - 9:00 và 16:00 - 19:00)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_5_0_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo giảm chiều cao cầu**, có hình dạng tam giác đều, màu nền vàng với viền đỏ, và có ký hiệu đen (mũi tên chỉ xuống) cùng chữ số \"5.0m\" ở giữa, cảnh báo người điều khiển phương tiện cần chú ý chiều cao cầu là 5.0 mét để tránh va chạm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_4_0.68.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo nguy hiểm**, có hình dạng tam giác đều, viền màu đỏ và nền màu vàng. Nội dung biểu tượng bên trong là hình ảnh một chiếc xe tải bị lật nghiêng, cảnh báo người điều khiển phương tiện cần chú ý nguy cơ tai nạn liên quan đến xe tải hoặc vật liệu rơi."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_11_0.33.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa (không rõ chi tiết). Biển báo này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_1_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn phương tiện** (loại biển thông tin). Biển có **hình dạng chữ nhật**, **màu nền xanh dương** và chữ màu trắng. Nội dung biển cung cấp thông tin về các quy định về hoạt động của phương tiện tại một số thời điểm nhất định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_8_0.63.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa để chỉ rõ hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_1_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo khuyến cáo**, có hình dạng **hình chữ nhật**, màu sắc **nền vàng và chữ đen**. Nội dung biển báo nhắc nhở người điều khiển phương tiện cần **giữ khoảng cách an toàn**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_8_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có ký hiệu hoặc biểu tượng màu đen để chỉ rõ hành động bị cấm. Các biển báo này thường được sử dụng để thông báo các quy định về việc cấm đi, dừng, rẽ, đỗ xe, v.v."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_10_3_0.74.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật** và màu sắc **xanh dương nền với chữ và hình vẽ màu trắng**. Nội dung trên biển báo là \"Cấm xe tải có tải trọng lớn hơn 3,5 tấn\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_4_1_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường cong phải**. Biển có **hình dạng tròn**, viền **xanh dương**, nền **trắng**, và có một **mũi tên màu trắng chỉ hướng sang phải**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_1_1_0.82.jpg",
+        "caption": "Biển báo trong ảnh là **biển chỉ dẫn** (thông tin bổ sung).  \nHình dạng: Hình chữ nhật.  \nMàu sắc: Nền xanh dương, chữ và viền trắng.  \n\nLưu ý: Đây không phải là biển báo giao thông theo tiêu chuẩn, mà là biển quảng cáo hoặc thông tin thương mại."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_9_0.3.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm rẽ phải**, có hình dạng là một tam giác vuông màu trắng với đường viền đen và mũi tên chỉ hướng phải. Biển báo này có màu nền xanh dương đậm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_7_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo tốc độ tối đa**. Biển có hình dạng chữ nhật đứng, màu nền xanh dương với chữ số trắng (80 và 50) và các biểu tượng xe khác nhau để chỉ định giới hạn tốc độ áp dụng cho từng loại phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_2_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm xe tải**. Biển có hình dạng **vuông**, màu nền **xanh dương**, viền **trắng**, và hình ảnh một chiếc xe tải bị vẽ dấu chéo màu **đỏ** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_11_6_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_5_0_0.88.jpg",
+        "caption": "Biển báo trong ảnh không phải là biển báo giao thông mà là một biển hiệu thương hiệu. Biển có hình chữ nhật, nền màu trắng với chữ \"AJINOMOTO\" màu đen và dòng chữ nhỏ hơn màu xanh lá cây ở trên cùng."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_2_0.67.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cung đường cong phải**. Biển có **hình tam giác** với **màu vàng nền và viền đen**, bên trong là hình mũi tên chỉ hướng sang phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_11_1_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** với **màu nền trắng**, viền **đen**, và chữ/cảnh báo bên trong là **chữ đen trên nền đỏ**. Nội dung cảnh báo là \"Cấm xe tải có tải trọng lớn hơn 3,5 tấn.\""
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_20_0.35.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn, viền trắng và nền đỏ. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_12_4_0.32.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_6_0_0.89.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe tải trọng trên 10 tấn**. Biển có **hình tròn**, viền ngoài màu **đỏ**, nền màu **trắng**, và chữ số \"10t\" màu **đen** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_12_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen chỉ ra một phần của đường đi bị cấm. Biển báo này thường được sử dụng để thông báo cấm xe đi vào hoặc qua khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_6_0.3.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn tuyến đường cao tốc**, có hình dạng chữ nhật, màu nền xanh lá cây và chữ trắng. Biển báo này cung cấp thông tin về tuyến cao tốc Bến Lức - Long Thành (Expressway)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_2_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng chữ nhật, màu sắc nền trắng với chữ và đường viền đen. Nội dung trên biển báo là \"0m\", thường được sử dụng để chỉ khoảng cách đến vị trí bắt đầu hoặc kết thúc của khu vực bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_8_0.59.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình chữ nhật đứng màu xanh dương bị một thanh ngang màu đỏ cắt ngang. Biển báo này thường dùng để cấm xe theo hướng hoặc loại phương tiện được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_5_5_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Zones à circulation restreinte\" (Khu vực lưu thông hạn chế)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_7_1_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo vòng xoay**. Biển có **hình tròn**, viền màu **xanh dương**, nền màu **trắng**, và có hình mũi tên màu **xanh dương** quay theo chiều kim đồng hồ."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_17_0.32.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng chữ nhật, màu nền đỏ với chữ và hình vẽ màu trắng. Nội dung trên biển báo là \"CHÚ Ý QUÁN SÁT\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_6_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm người đi bộ**, có hình dạng **hình vuông**, màu nền **xanh dương** và chữ \"X\" màu **đỏ** ở giữa. Biển báo này cảnh báo người đi bộ không được phép đi qua khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_18_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình ảnh một ngôi sao màu **đen** ở giữa, biểu thị cấm xe cơ giới."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_6_3_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe đạp**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và hình ảnh một chiếc xe đạp màu đen bị vẽ dấu chéo màu đỏ qua."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_10_2_0.79.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_7_2_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo thời gian cấm**. Biển có **hình chữ nhật**, **màu nền trắng**, viền đen, và chữ số màu đen thể hiện giờ cấm (6:00 - 8:00 và 16:00 - 18:00)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_1_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một dấu chéo màu **đỏ** ở giữa. Biển này thường được sử dụng để cấm xe đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_9_0.39.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật đứng**, màu sắc **đỏ viền trắng** và chữ/cảnh báo bên trong là **trắng nền đỏ**. Biển báo này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_3_1_0.61.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo nguy hiểm**, có hình dạng tam giác với viền đỏ và nền vàng. Nội dung trên biển bao gồm ký hiệu \"BỊ CHẬM\" và hình vẽ người đang làm việc ở bên phải. Biển này cảnh báo người điều khiển phương tiện về tình trạng ùn tắc hoặc chậm trễ do công việc đang diễn ra."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_1_0.65.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hình tam giác đen ở giữa. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_6_5_0.35.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_8_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung biển báo cấm các phương tiện theo quy định cụ thể được nêu trên biển."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_6_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm rẽ phải**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình mũi tên rẽ phải bị đánh dấu bằng đường chéo màu đỏ."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_4_2_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng chữ nhật đứng, màu nền đỏ và chữ trắng. Nội dung biển báo cấm các loại xe có khối lượng chuyên chở từ 0.5 tấn đến 1.5 tấn (trừ xe bồn) trong khung giờ từ 6:00 - 20:00."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_1_1_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh xe buýt và xe tải kèm dấu chéo màu đỏ, cấm các phương tiện này đi qua khu vực."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_1_6_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng** và có ký hiệu hoặc chữ đen ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_13_1_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm xe tải**. Biển có hình chữ nhật, màu nền xanh dương, chữ và hình vẽ màu trắng. Nội dung biển báo là \"Xe tải cấm vào\" với biểu tượng xe tải bị gạch chéo."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_9_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi** (loại B). Biển có **hình chữ nhật**, màu nền **xanh dương**, viền trắng, và có các biểu tượng giao thông như xe ô tô, xe buýt, xe máy, xe thô sơ, và xe đạp để chỉ hướng đi dành cho từng loại phương tiện."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_17_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền trắng và nền đỏ, bên trong là hình chữ thập đỏ. Biển này thường được sử dụng để cấm xe đi vào hoặc qua khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_13_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường**, có hình dạng **hình chữ nhật đứng**, màu sắc **nền xanh dương đậm với chữ và mũi tên màu trắng**. Nội dung trên biển là \"HÀ NỘI\" kèm theo mũi tên chỉ hướng thẳng lên trên."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_12_1_0.77.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng** và có hình vẽ hoặc chữ màu **đen** ở giữa để chỉ rõ hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_10_0.5.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe máy**. Biển có hình tròn, viền đỏ, nền trắng và hình ảnh xe máy bị vẽ vòng xoáy màu đỏ ở giữa, biểu thị hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_8_1_0.88.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe bị gạch chéo màu **đen**. Biển báo này thông báo **cấm xe cơ giới đi vào đường hoặc khu vực đó**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_2_4_0.5.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa (ở đây là chữ \"TUẤN HÀNG\"). Biển báo này thường được sử dụng để cấm một hoạt động hoặc phương tiện cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **xanh nền trắng chữ và mũi tên**. Nội dung biển báo chỉ hướng đi đến \"BẾN THÀNH\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_2_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật** và màu sắc **đỏ viền trắng**, với nội dung cấm các phương tiện theo quy định được nêu trên biển."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình ảnh biểu tượng xe buýt và dòng chữ \"Xe buýt\" bên dưới, cho biết khu vực này cấm xe buýt đi qua."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_7_6_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo bên trong màu **trắng**. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_14_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo hướng đi** (biển chỉ dẫn đường).  \n- **Hình dạng**: Hình chữ nhật.\n- **Màu sắc**: Nền xanh dương, chữ và số màu trắng, viền vàng.  \n- Nội dung: Chỉ dẫn các tuyến đường cụ thể như \"CT.01\" và \"QL.1\", kèm theo tên địa danh \"LA SƠN\" và \"TUYẾN TRÁNH HUẾ\".  "
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình chữ nhật đứng, màu nền xanh dương đậm và chữ trắng. Nội dung biển báo cấm xe 3 bánh và 4 bánh thô sơ trong khung giờ từ 05:00 - 13:00 và 16:00 - 22:00."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_3_0_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình bên trong là dấu chéo màu đỏ qua biểu tượng xe tải rẽ phải. Biển báo này cấm các phương tiện tải trọng lớn (xe tải) rẽ phải tại vị trí này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_0_0.73.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường quanh co**. Biển có hình dạng tam giác đều, màu xanh dương nền với chữ và mũi tên màu trắng. Nội dung biển báo là \"CẤU QUANG TRUNG - ĐƯỜNG CỔN BÀNG SINH\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_7_0.62.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, màu sắc **đỏ viền trắng** và nội dung là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_4_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh xe buýt và dòng chữ \"XE BUÔN CHỞ HÀNG\" kèm dấu chéo đỏ ngang qua, cấm xe buýt chở hàng lưu thông tại khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_6_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ \"CẤM\" màu trắng ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_2_0.41.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ \"CẤM\" màu trắng ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_6_1_0.62.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm đỗ xe**. Biển có hình dạng tròn, viền màu đỏ, nền màu trắng và có ký hiệu chữ \"P\" màu đen ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_14_0.33.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa để chỉ rõ hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_12_0.55.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình bên trong là một chiếc còi bị chéo bởi đường kẻ đỏ. Biển báo này có màu nền trắng, viền đỏ, và hình còi đen. Nó cảnh báo người điều khiển phương tiện không được sử dụng còi trong khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_4_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn** với viền đỏ và nền trắng, bên trong có hình một chiếc xe bị đánh dấu chéo màu đỏ, biểu thị **cấm xe cơ giới**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_6_4_0.32.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đen nền với chữ và hình vẽ màu trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_8_0.36.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung trên biển báo là \"CẤM XE ĐIỆN\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_14_0_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo nguy hiểm** (biển báo cảnh báo), có hình dạng **hình tròn**, màu nền **xanh dương**, và hình ảnh bên trong biểu thị khu vực thành phố hoặc đô thị. Biển báo này thường được sử dụng để cảnh báo người điều khiển phương tiện sắp đến khu vực đông dân cư hoặc thành phố."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_5_0_0.76.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình tam giác đen với dấu chéo màu đỏ qua đó. Biển báo này cấm xe tải (có ký hiệu \"I\" trong hình tam giác)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_10_1_0.58.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa. Biển báo này thường được sử dụng để cấm một số hành động hoặc phương tiện tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_3_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn** (thông tin), có hình dạng **hình chữ nhật**, màu nền **xanh dương** và chữ/symbol màu **trắng**. Biển báo này thông báo về **địa điểm có trạm xăng/dầu**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_4_5_0.42.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ số \"03\" ở giữa, thể hiện cấm xe tải có tải trọng trên 3 tấn."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_6_0.59.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, màu sắc **đỏ viền trắng** và chữ đen bên trong. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_11_4_0.58.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen bên trong. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_5_0.74.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm tốc độ**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là chữ số \"60\" màu đen, chỉ rõ giới hạn tốc độ tối đa là 60 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_2_1_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tam giác đều, màu nền là vàng và viền đen, với hình vẽ một chiếc xe hơi màu đen ở giữa. Biển báo này cảnh báo người điều khiển phương tiện không được vượt qua điểm ghi biển."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_23_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo tốc độ tối đa** (biển限速).  \n- **Hình dạng**: Hình chữ nhật.\n- **Màu sắc**: Nền xanh dương, chữ và số màu trắng.  \n- Nội dung: Gồm ba dòng số lần lượt là **80**, **60**, và **50**, biểu thị các mức giới hạn tốc độ tối đa theo từng làn đường từ trên xuống dưới.  "
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_11_0_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng. Biển báo này cấm xe ô tô và xe tải đi vào khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_1_5_0.47.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường** (hoặc biển chỉ dẫn tuyến). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và số viết bằng **chữ trắng**. Nội dung biển báo hướng dẫn các tuyến đường cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_9_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ \"CẤM\" màu đỏ ở giữa. Biển báo này thường được sử dụng để cấm một số hành động hoặc phương tiện tại khu vực cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_4_7_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và hình vẽ một chiếc xe bị cấm đi qua. Biển báo này thường được sử dụng để cấm các phương tiện giao thông đi vào hoặc đi qua khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_6_0.46.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_3_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **nền xanh dương đậm với chữ và mũi tên màu trắng**. Nội dung biển báo chỉ hướng đến \"KCN BÌNH XUYÊN\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_12_0.7.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình ảnh một chiếc xe hơi bị vẽ đường chéo màu **đỏ** để chỉ rõ việc cấm xe hơi đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_5_1_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng vuông** với **màu nền xanh dương**, chữ và hình vẽ bên trong là **màu trắng**. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_14_0.56.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng chữ nhật đứng, màu nền đen với chữ và hình vẽ màu trắng. Nội dung biển báo cảnh báo về việc \"LẤN CHIẾM TRÁI PHÉP SE BỊ XỬ PHẠT NGHIÊM KHẮC\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_6_0_0.85.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ/cảnh báo màu **đen**. Nội dung trên biển báo là \"CẤM MỞ VAS\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_8_3_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật** và màu sắc **trắng nền với chữ đen và hình vẽ đen**. Nội dung trên biển báo là \"LÔNG DƯƠNG\", cho biết khu vực này cấm xe lông dương đi qua."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_4_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm xe tải**. Biển có hình dạng **vuông**, màu sắc **đỏ viền trắng**, với biểu tượng một chiếc xe tải bị gạch chéo."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_2_5_0.43.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ viết màu **trắng**. Nội dung trên biển báo là \"CẤM ĐỖ XE\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_1_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình ảnh biểu tượng cấm (một cái loa bị vẽ đường chéo màu đỏ). Biển báo này thông báo **cấm hon còi**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_3_0.57.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải bị **gạch chéo** màu đỏ, biểu thị cấm xe tải đi qua khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_5_6_0.49.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen chỉ ra hướng cấm. Biển báo này thường được sử dụng để cấm xe đi vào hoặc đi theo hướng chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_4_2_0.39.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật** và màu sắc **đỏ viền trắng**, với nội dung cấm các phương tiện theo hướng mũi tên chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_7_0.61.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_4_4_0.45.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật đứng**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"CLEVER\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_13_3_0.39.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị **cấm xe tải** đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_12_0_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn tốc độ tối đa**, có hình dạng chữ nhật, màu nền xanh dương và chữ số \"120\" màu trắng ở giữa. Biển báo này được sử dụng để thông báo rằng tốc độ tối đa cho phép trên đoạn đường này là 120 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_10_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bát giác** và màu sắc **đỏ viền trắng**. Biển báo này cấm các phương tiện đi vào hoặc dừng lại tại khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_3_0.7.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình ảnh một chiếc xe tải màu đen bên trong, kèm dòng chữ \"Truck\" (xe tải). Biển báo này cấm các phương tiện tải trọng lớn (xe tải) đi vào khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_7_2_0.6.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_6_5_0.43.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ viết màu **trắng**. Nội dung trên biển báo là \"CẤM ĐỖ XE\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_5_0.59.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng chữ nhật, màu sắc nền trắng với chữ và đường viền đen. Nội dung trên biển báo là \"CỬA HÀNG VĂN PHÒNG\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_2_3_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cử chỉ màu **trắng** trên nền đỏ. Biển báo này thường cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_14_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị **cấm xe tải** đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_3_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và ký hiệu màu trắng**. Biển báo này thường được sử dụng để cung cấp thông tin về hướng đi hoặc các điểm đến cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_3_0.63.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen với dấu chéo đỏ. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_8_0.3.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng **hình chữ nhật đứng**, màu sắc **trắng nền với chữ và số đen**. Số \"50\" trên biển báo cho biết tốc độ tối đa được phép là 50 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_2_0.71.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo hướng dẫn đường cao tốc**. Biển có **hình chữ nhật**, **màu nền xanh dương**, chữ và số màu trắng. Nội dung biển cung cấp thông tin về các tuyến đường cao tốc và khoảng cách đến các điểm đến."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_3_3_0.88.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường** (biển hướng đi).  \n- **Hình dạng**: Hình chữ nhật dài.\n- **Màu sắc**: Nền xanh dương, chữ và số màu trắng.  \nBiển báo này cung cấp thông tin về các địa điểm và khoảng cách đến các thành phố: Lào Cai (251 km), Yên Bái (108 km), Việt Trì (109 km), và Vĩnh Yên (11 km)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_5_0.77.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe đạp**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và hình ảnh một chiếc xe đạp bị vẽ đường chéo màu **đỏ** để biểu thị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_10_0_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường đi**, có hình dạng tròn, màu nền xanh dương và chữ ký trắng (mũi tên chỉ hướng phải). Biển này thông báo rằng phương tiện phải rẽ phải hoặc đi theo hướng chỉ dẫn."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_7_1_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen chỉ ra hành động bị cấm. Biển báo này thường được sử dụng để cấm một hoạt động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_8_0_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn chiều cao**. Biển có **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ số \"4m\" màu **đen** ở giữa, cảnh báo người điều khiển phương tiện không được vượt quá chiều cao 4 mét."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_6_6_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị **cấm xe tải** đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_10_0.46.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ và nền trắng, với số \"60\" ở giữa, chỉ định tốc độ tối đa cho phép là 60 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_6_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe đạp**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh xe đạp bị đánh dấu bằng đường chéo màu đỏ. Biển báo này thông báo rằng **xe đạp không được phép đi qua khu vực này**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_23_0.3.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn chiều cao**. Biển có **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ số \"4.2m\" màu **đen** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_7_1_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật**, màu sắc **nền trắng, chữ và viền đen**. Nội dung biển báo cấm xe tải có tải trọng lớn hơn 3 tấn đi qua khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_24_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình bên trong là ô tô bị chéo斜 (dấu \"X\"). Màu sắc chính là nền trắng, viền đỏ, và hình ô tô đen. Biển này báo hiệu **cấm xe ô tô đi vào khu vực này**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_3_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe tải có chiều dài vượt quá 9 mét**. Biển có hình dạng tròn, viền đỏ, nền trắng và hình ảnh xe tải kèm số \"9 m\" ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_2_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo khu vực có trẻ em**, có hình dạng **tam giác** với viền màu **đỏ**, nền màu **vàng**, và hình ảnh hai đứa trẻ đen ở giữa. Biển báo này nhắc nhở người điều khiển phương tiện cần chú ý và giảm tốc độ khi đi qua khu vực có trẻ em."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_13_1_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có biểu tượng hai thanh dọc song song bị đánh dấu bằng đường chéo màu đỏ. Biển báo này cấm xe đi vào làn đường dành cho xe buýt hoặc làn đường ưu tiên khác."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_11_5_0.33.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **bảng tam giác** với **màu nền vàng** và **chữ đỏ**. Nội dung trên biển báo cảnh báo \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_18_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình bên trong là ô tô bị chéo斜. Biển báo này cấm xe ô tô đi vào hoặc đi qua khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_2_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo nguy hiểm**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền trắng**. Nội dung biển báo cảnh báo \"Đoạn đường hay xảy ra tai nạn\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_2_0.73.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo tốc độ tối thiểu**, có hình dạng **chữ nhật** với góc bo tròn, màu sắc **xanh dương nền và chữ số trắng**. Biển báo này chỉ định tốc độ tối thiểu mà xe phải duy trì khi đi qua khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_3_4_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_1_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi** (loại 3). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và ký hiệu màu **trắng**. Nội dung biển cung cấp thông tin về các hướng đi đến các tuyến đường cụ thể, kèm theo khoảng cách."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_14_1_0.52.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật** và màu sắc **xanh dương nền với chữ và hình vẽ màu trắng**. Biển báo này cấm xe tải đi vào khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_22_0.56.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình mũi tên uốn cong bên trong hình tròn bị chia cắt bởi một đường thẳng màu đỏ. Biển báo này cấm rẽ phải hoặc quay đầu xe."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_9_0_0.74.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường cao tốc** (Expressway). Biển có **hình chữ nhật**, màu nền **xanh lá cây**, chữ và số màu **trắng**, với các thông tin về tuyến cao tốc \"TRUNG LƯƠNG - MỸ THUẬN EXPRESSWAY\" và tốc độ tối đa cho các làn đường (80 km/h và 60 km/h). Biển còn có ký hiệu đường cao tốc ở góc phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_1_4_0.36.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo chỉ dẫn** (thông tin hướng đi). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và đường viền màu **trắng**. Nội dung trên biển bị che một phần nhưng có thể nhận ra các ký tự như \"LC\", \"EN\", \"PART\" và \"OM\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_5_1_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng** trên nền đỏ. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_3_1_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình chữ thập màu đỏ. Biển này thường được sử dụng để cấm tất cả các phương tiện đi vào khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_9_0.3.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_4_1_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và mũi tên trắng**. Biển báo này chỉ hướng đi cho các phương tiện, bao gồm cả việc rẽ phải và đi thẳng."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_0_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm dừng và đỗ xe**. Biển có hình chữ nhật, màu nền xanh dương, chữ và số màu trắng, kèm theo dòng chữ \"TRÊN 25 CHỖ NGỒI\" và thời gian cấm (6:00 - 22:00)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_8_0.32.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng** và có hình vẽ một dấu chéo màu **đỏ** qua biểu tượng hoặc chữ cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_10_0.62.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển báo này thường cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_8_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi**, có hình dạng **hình chữ nhật** với góc bo tròn, màu sắc **xanh dương nền và chữ/đường kẻ trắng**. Biển báo này chỉ hướng đi về phía phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_6_0.86.jpg",
+        "caption": "Ảnh không hiển thị biển báo giao thông mà là một hộp đựng TV Samsung QLED. Vì vậy, không có thông tin liên quan đến biển báo giao thông để mô tả."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_8_3_0.58.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cự ly**, có hình dạng **hình chữ nhật**, màu sắc **trắng nền với chữ đen**. Nội dung trên biển báo là \"200m\", chỉ rõ khoảng cách đến điểm cần chú ý hoặc vị trí sắp tới."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_13_0.32.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa (chưa rõ chi tiết). Biển báo này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_6_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi** (loại 3). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và số màu **trắng**. Nội dung biển cung cấp thông tin về các hướng đi đến các tuyến đường cụ thể, kèm theo khoảng cách."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_5_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_15_0.5.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **tròn**, màu sắc **đỏ viền trắng** và có dấu \"X\" ở giữa, thường dùng để cấm xe đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_3_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là chữ số \"80\" màu đen, chỉ định tốc độ tối đa được phép là 80 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_5_0.6.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn tốc độ tối đa**, có hình dạng tròn với viền đỏ, nền trắng và chữ số \"40\" màu đen ở giữa, đơn vị km/h được viết nhỏ bên dưới. Biển báo này cảnh báo người điều khiển phương tiện không được vượt quá tốc độ 40 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_6_1_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe đạp**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh xe đạp bị đánh dấu chéo màu đen. Biển báo này thông báo rằng xe đạp không được phép đi qua khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_16_0.36.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường cao tốc** (biển B1). Biển có **hình dạng hình tròn**, viền màu **đen**, nền màu **xanh dương**, và có hai mũi tên trắng chỉ hướng đi thẳng và rẽ phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_2_5_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_5_1_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường** (loại biển hướng đi). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và mũi tên màu **trắng**. Nội dung biển chỉ hướng đi đến các địa điểm: \"ĐI HUYỆN HOÀNG HÓA\" (mũi tên trái) và \"ĐI TP. VINH\" (mũi tên phải)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_1_1_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền xanh dương. Biển báo này cấm xe đi vào làn đường dành cho xe buýt hoặc làn đường ưu tiên khác (được biểu thị bằng hai vạch dọc)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_1_0_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ và nền trắng, với số \"70\" ở giữa, chỉ định tốc độ tối đa cho phép là 70 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_9_0.32.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** với **màu nền trắng và chữ/cử chỉ đen**. Biển báo này cấm người đi bộ qua đường tại khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_10_1_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh một chiếc xe bus kèm dòng chữ \"2.5t\" (chỉ cấm xe tải có tải trọng từ 2.5 tấn trở lên). Biển báo này dùng để cấm các phương tiện thuộc loại được chỉ định đi vào khu vực hoặc đường được đặt biển."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_16_0.66.jpg",
+        "caption": "Biển báo là **biển cấm**, có hình dạng tròn với viền đỏ và hình ảnh xe đạp bị gạch chéo ở giữa, màu sắc chủ đạo là trắng và đỏ. Biển báo này cấm xe đạp đi vào khu vực hoặc đường được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_5_1_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giảm tốc độ**, có hình dạng **hình chữ nhật**, màu sắc **nền trắng với chữ và viền đen**. Biển báo này được sử dụng để yêu cầu người điều khiển phương tiện giảm tốc độ khi đến khu vực nguy hiểm hoặc cần giảm tốc độ theo quy định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_8_1_0.76.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng. Nội dung trên biển báo là một hình ảnh hai xe hơi đối diện nhau kèm chữ \"8 m\", cảnh báo cấm xe có chiều dài vượt quá 8 mét đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_14_2_0.47.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật**, màu sắc **đỏ nền với chữ và hình vẽ màu trắng**. Nội dung biển báo cấm xe tải ghép."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_11_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh một chiếc xe bị vẽ đường chéo màu đỏ, biểu thị cấm xe cơ giới đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_13_0.5.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** và màu sắc **đỏ viền trắng**, với nội dung cấm xe lưu thông trên đường phố Sông Đôi."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_15_0.38.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_5_0.55.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ tối đa**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ số **60** màu đen ở giữa, thể hiện tốc độ tối đa được phép là 60 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_13_5_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có một dấu **gạch ngang màu đỏ** ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_8_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"60\" màu đen ở giữa, chỉ rõ tốc độ tối đa được phép là 60 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_6_0.54.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn, viền trắng, nền đỏ và một dấu chấm đen ở giữa. Biển này thường được sử dụng để cấm các phương tiện đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_3_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ số \"80\" màu **đen** ở giữa. Biển báo này cấm xe đi quá tốc độ 80 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_7_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm rẽ trái**, có hình dạng tròn với viền đỏ và hình mũi tên màu đen bị chéo. Biển báo này có màu nền trắng, dùng để thông báo người điều khiển phương tiện không được phép rẽ trái tại vị trí này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_1_0_0.72.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ/cảnh báo màu **đen**. Nội dung biển báo ghi \"KHU VỰC CẤM ĐỖ Ô TÔ, XE MÁY\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_22_0.33.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng **hình tròn**, màu sắc **đỏ viền và trắng nền**. Số \"50\" ở giữa biểu thị tốc độ tối đa được phép là 50 km/h. Biển này cũng có các hình ảnh phụ bên dưới để chỉ rõ các phương tiện áp dụng: xe ô tô, xe buýt, xe tải, và xe đạp."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_4_0_0.86.jpg",
+        "caption": "Đây không phải là biển báo giao thông mà là một tấm biểu ngữ chúc mừng năm mới. Tấm biểu ngữ có hình chữ nhật, màu đỏ chủ đạo với chữ vàng và họa tiết hoa đào, kèm theo hình rồng ở dưới cùng để đại diện cho năm Ất Tỵ 2025. Nội dung chính là \"CHÚC MỪNG NĂM MỚI\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_11_0.74.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **chữ nhật** và màu sắc **đỏ viền trắng**. Nội dung trên biển báo cấm các phương tiện vận tải hành khách (xe buýt) và xe tải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_6_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn tốc độ tối đa**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"40\" màu đen ở giữa, kèm ký hiệu \"km/h\". Biển báo này cảnh báo người điều khiển phương tiện không được vượt quá tốc độ 40 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_7_0.45.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo không rõ ràng do ảnh bị mờ."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_3_4_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm người đi bộ**, có hình dạng **hình vuông**, màu sắc **xanh dương nền với hình người đi bộ màu trắng bên trong dấu chéo màu đỏ**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_2_0_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và có ký hiệu hình chữ nhật đỏ bên trong với dòng chữ \"CẤM\". Biển này thường được sử dụng để cấm một hành động hoặc phương tiện cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_2_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật**, màu nền **xanh dương** và chữ/các biểu tượng **trắng**. Nội dung biển báo cấm xe máy, xe gắn máy và xe ba bánh lưu thông trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_4_0.52.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ và nền trắng, với số \"50\" ở giữa, cho biết tốc độ tối đa được phép là 50 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_8_3_0.46.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ số màu **đen** ở giữa (trong trường hợp này là số \"1\"). Biển báo này thường được sử dụng để cấm một hành động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_8_0.77.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn** với viền đỏ và nền trắng, bên trong là hình chữ thập đỏ. Biển này thường được sử dụng để cấm tất cả các phương tiện đi vào khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_1_6_0.3.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình vuông** với góc bị cắt (hình chữ nhật bị cắt góc), màu sắc là **màu đỏ** với viền trắng và hình vẽ bên trong là một hình tam giác đen chỉ hướng phải. Biển báo này thông báo cấm rẽ phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_19_0.39.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, màu sắc **đỏ viền trắng** và bên trong là hình chữ nhật màu trắng với một thanh ngang màu đỏ. Biển này thường được sử dụng để cấm xe đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_5_0.55.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **chữ nhật đứng**, màu sắc **đen nền với chữ và ký hiệu màu trắng**. Nội dung trên biển báo cấm xe tải (xe có tải trọng lớn) đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_6_2_0.54.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_2_6_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị cấm xe tải đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_10_3_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị cấm xe tải đi qua."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_3_0.52.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_11_0_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình chữ nhật đứng**, màu sắc **đỏ nền với đường kẻ trắng ngang**. Biển này thường dùng để cấm xe đi vào hoặc dừng lại tại khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_12_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo nguy hiểm**, có hình dạng tam giác đều, màu nền vàng và viền đỏ. Nội dung trên biển là một hình chữ nhật đen nằm ngang, biểu thị đường có hố hoặc ổ gà."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_4_6_0.39.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình tròn**, màu sắc **đỏ viền trắng** và bên trong là một dấu chéo màu đỏ. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_9_0.35.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng** và có hình vẽ một dấu chéo màu **đỏ** qua biểu tượng hoặc chữ cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_1_0.56.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường cao tốc**, có hình dạng chữ nhật, màu xanh lá cây nền và chữ trắng. Biển báo này cung cấp thông tin về tuyến cao tốc Bến Lức - Long Thành (Expressway) và giới hạn tốc độ tối đa là **100 km/h** (được thể hiện trong vòng tròn đỏ), cùng với tốc độ tối thiểu là **60 km/h** (được thể hiện trong hình bầu dục xanh)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_13_2_0.71.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình chữ nhật màu đỏ với ký hiệu \"H\" màu trắng, biểu thị cấm xe tải (xe có trọng tải lớn)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_6_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường** (biển hướng đi).  \n- **Hình dạng**: Hình chữ nhật.\n- **Màu sắc**: Nền xanh dương, chữ và viền trắng.  \nBiển báo này cung cấp thông tin về các hướng đi đến các địa điểm như \"CẦN THƠ\", \"CHÂN AN\", \"TX VINH LONG\", và \"BẾN PHÁ\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_1_7_0.36.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **xanh dương** với chữ và ký hiệu màu **trắng**. Biển báo này thường được sử dụng để cấm một số hành động hoặc phương tiện tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_2_0.73.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình bên trong là ô tô bị chéo斜 (dấu \"cấm\"). Màu sắc chính là nền trắng, viền đỏ, và hình ô tô đen. Biển báo này thông báo **cấm xe ô tô đi vào**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_1_1_0.57.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường cao tốc**, có hình dạng **hình chữ nhật** với **màu nền xanh dương** và chữ/số màu trắng. Biển báo này thông báo về **đường cao tốc Trung Lương - Mỹ Thuận Expressway** và giới hạn tốc độ tối đa là **90 km/h**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_9_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** với **màu nền trắng và chữ/canh báo đỏ**. Nội dung trên biển báo là \"NO PARKING ANYTIME\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_16_0.33.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn, viền đỏ và nền trắng, với một dấu chéo màu đỏ ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_3_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, màu sắc **phía ngoài là đỏ, phía trong là trắng** và có ký hiệu số \"43\" ở giữa. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_2_0.72.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật** và màu sắc **đỏ viền trắng**. Nội dung trên biển báo cấm các phương tiện như xe máy, xe buýt, xe tải và xe chở khách."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_3_0.65.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật** và màu sắc **xanh dương nền với chữ trắng**. Nội dung trên biển báo cho thấy ba ô tô bị cấm đi qua khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_8_2_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa để chỉ rõ hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_7_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình vuông**, màu sắc **đỏ viền trắng** và nội dung là chữ \"CẤM\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_2_0_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm đường một chiều**. Biển có hình tròn, viền đỏ, nền xanh dương, và có dấu chéo đỏ qua biểu tượng hai vạch trắng dọc (đường một chiều)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_9_1_0.69.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo chỉ dẫn địa điểm** (thuộc nhóm biển báo chỉ dẫn).  \n- **Hình dạng**: Hình chữ nhật đứng.  \n- **Màu sắc**: Nền xanh dương, chữ và viền trắng.  "
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_5_0.33.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị cấm xe tải đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_3_0.68.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe buýt**. Biển có hình dạng **hình vuông**, màu sắc **đen nền với hình ảnh xe buýt màu trắng**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_6_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_11_0_0.85.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo chỉ dẫn địa danh**, có hình dạng chữ nhật đứng, màu nền xanh dương đậm và chữ trắng. Nội dung biển báo ghi \"CẦU ĐẠ TẺH\" cùng với thông tin khoảng cách \"Km 16 + 547\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_9_5_0.67.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe hơi bị chéo màu **đen** ở giữa. Biển báo này thông báo rằng việc đi vào hoặc dừng đỗ xe tại khu vực này bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_7_0.67.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** và màu sắc **đỏ viền trắng**, với nội dung \"150m\" để chỉ khoảng cách đến vị trí cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_1_4_0.72.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo thời gian cấm**. Biển có hình chữ nhật, màu nền trắng, chữ và viền đen, với nội dung \"6:00 - 22:00\" để chỉ thời gian cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa. Biển báo này cấm các phương tiện đi vào đường hoặc khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_1_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình ảnh bên trong bị chéo bởi một đường thẳng màu đỏ. Biển báo này cấm xe tải và xe đạp điện/xe máy điện đi vào khu vực này. Màu sắc chính là đỏ và trắng."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_8_4_0.76.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường dành cho xe đạp** (Vỉa hè).  \n- **Loại**: Biển báo chỉ dẫn.  \n- **Hình dạng**: Hình chữ nhật.  \n- **Màu sắc**: Nền màu xanh lá cây, chữ và biểu tượng màu trắng.  "
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_3_0_0.91.jpg",
+        "caption": "Biển báo trong ảnh là **biển chỉ dẫn địa danh**. Biển có hình chữ nhật, màu xanh dương nền với chữ trắng, ghi rõ \"ĐỊA PHẬN TP. HỒ CHÍ MINH\" và khoảng cách (KM: 1924 + 815)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_13_0.46.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình nền trắng. Bên trong là biểu tượng một chiếc xe hơi bị vẽ đường chéo màu đỏ, thể hiện **cấm xe hơi đi qua**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_11_3_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Cấm xe tải có tải trọng lớn hơn 3,5 tấn.\""
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_7_3_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo hướng dẫn** (Merge Lane), có hình dạng chữ nhật, màu nền xanh lá cây với chữ và số màu trắng. Biển báo này cảnh báo người điều khiển phương tiện sắp nhập làn đường và cách điểm nhập làn khoảng **150 m**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_2_1_0.79.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_15_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng** và có ký hiệu hoặc chữ màu **đen** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_4_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, màu sắc **xanh dương** với viền trắng và chữ hoặc biểu tượng màu trắng ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_5_3_0.38.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_7_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_1_1_0.87.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **hình chữ nhật**, màu sắc **nền đỏ, chữ và viền trắng**. Nội dung biển báo là \"CẤM CÁC LOẠI XE TẢI\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_2_0.67.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và số màu trắng**. Biển báo này cung cấp thông tin về quốc lộ 1A và hướng đi đến Bình Chánh."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_9_0.45.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình tam giác đen với dấu chéo đỏ qua giữa, biểu thị hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_8_0.48.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hình tam giác đen ở giữa, biểu thị hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_24_0.33.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **chữ nhật** với góc bo tròn, màu nền **xanh dương** và chữ/số/đường nét bên trong màu **trắng**. Biển báo này thường chỉ hướng đi hoặc thông tin liên quan đến tuyến đường cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_5_2_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn** với viền màu **đỏ**, nền màu **trắng**, và hình bên trong là một dấu **chữ thập đỏ** (cấm). Biển này thường được sử dụng để cấm các phương tiện đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_9_0.59.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình chữ nhật đứng màu đỏ với dấu chéo màu trắng. Biển này thường được sử dụng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_20_0.47.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi**, có hình dạng **chữ nhật** với góc bo tròn, màu nền **xanh dương** và chữ/số/đường đi được đánh dấu bằng **màu trắng**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_3_2_0.8.jpg",
+        "caption": "Biển báo trong ảnh là **biển chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ trắng**. Nội dung trên biển báo bao gồm một tên và số điện thoại."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_9_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình mũi tên cong (rẽ trái) được khoanh tròn và gạch chéo màu đỏ, báo hiệu **cấm rẽ trái**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_5_0.67.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo nguy hiểm**, có hình dạng tam giác với viền màu vàng và nền màu vàng nhạt. Biểu tượng trên biển là hình ảnh một chiếc xe tải đang bị lật nghiêng, cảnh báo người điều khiển phương tiện cần chú ý nguy cơ tai nạn liên quan đến xe tải hoặc vật liệu rơi."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_3_0_0.82.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ trắng**. Nội dung trên biển báo là \"ĐƯỜNG TỊCH ĐIỂN\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_3_2_0.74.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo bên trong màu **trắng**. Biển báo này thường được sử dụng để thông báo các hành động bị cấm tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_7_5_0.61.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình ảnh một chiếc xe đạp màu **xanh dương** ở giữa, biểu thị **cấm xe đạp đi vào khu vực này**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_14_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tam giác đều, màu sắc là nền đỏ với viền trắng và hình tam giác đen ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_5_2_0.31.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ \"CẤM TƯƠNG ỨNG\" được viết bằng màu **đen**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_21_0.32.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**. Biển có hình chữ nhật đứng, màu nền xanh dương đậm, chữ số và viền màu trắng. Các biển nhỏ bên dưới biểu thị các phương tiện được phép lưu thông với tốc độ tối đa 50 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_0_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng chữ nhật đứng, màu nền xanh dương đậm và chữ trắng. Nội dung trên biển báo là \"ĐIỆP\" với các số liệu về khoảng cách (6 km và 14 km)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_6_5_0.74.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình tam giác đen với dấu chéo đỏ ngang qua, biểu thị hành động bị cấm. Biển báo này thường được sử dụng để cấm một hoạt động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_8_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ số \"70\" màu **đen** ở giữa, thể hiện tốc độ tối đa được phép."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_10_1_0.51.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** và màu sắc **nền vàng, chữ đen**. Nội dung trên biển báo là \"KHÔNG ĐƯỢC ĐỖ XE\" và \"TRÊN HÀNH LANG\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_8_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa (chưa rõ chi tiết). Biển này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_8_0.68.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng** và hình ảnh biểu tượng (xe ba bánh và xe đạp điện) bên trong được khoanh tròn bằng đường kẻ màu **đỏ**. Biển báo này cấm các phương tiện tương ứng lưu thông tại khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_7_1_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cử chỉ màu **trắng** trên nền đỏ. Biển báo này cấm người đi bộ qua đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_6_0_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn với viền đỏ và nền trắng, số \"40\" ở giữa. Dưới biển chính là các biển phụ chỉ định các loại phương tiện áp dụng: xe ô tô chở khách (5 chỗ trở lên), xe buýt, xe tải (tải trọng > 3,5 tấn), xe máy và xe ba bánh."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_11_4_0.72.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ \"CẤM\" ở giữa. Biển báo này thường được sử dụng để cấm một số hành động hoặc phương tiện tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_9_4_0.73.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ \"CẤM\" màu đen ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_8_1_0.59.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_6_0.56.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển báo này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_5_0.74.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe máy**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và hình ảnh một chiếc xe máy bị vẽ đường chéo màu **đỏ** để biểu thị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_4_0.74.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm người đi bộ**, có hình dạng tròn với viền đỏ, nền trắng và hình người đi bộ màu đen bị chéo bởi một đường thẳng màu đỏ. Biển báo này cảnh báo người tham gia giao thông không được phép đi bộ tại khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_7_0_0.76.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và hình trắng**. Nội dung biển báo hướng dẫn về \"KCN BIỂN HÒA\" và \"BIỂN HÒA\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_0_0.7.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cung đường cong phải**. Biển có **hình tam giác** với **màu vàng nền và viền đen**, bên trong là hình mũi tên chỉ hướng cong phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_14_2_0.38.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe hơi bị gạch chéo màu **đen**. Biển báo này thông báo cấm xe cơ giới đi vào khu vực hoặc đường được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_4_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa (không rõ chi tiết do ảnh không đủ rõ)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_3_0.68.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo đường cong liên tiếp**. Biển có **hình tam giác** với **màu vàng nền và viền đen**, bên trong là hình hai đường cong ngược chiều nhau."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_2_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ và nền trắng, với số \"50\" ở giữa, chỉ định tốc độ tối đa cho phép là 50 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_9_0.39.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường đi**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương** với chữ và mũi tên màu trắng. Biển báo này chỉ hướng đi về phía phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_17_0.41.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình chữ nhật màu đỏ với dòng chữ \"CẤM\" hoặc ký hiệu tương ứng. Biển này thường được sử dụng để cấm một hành động hoặc phương tiện cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_7_0.71.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_4_0_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn, viền đỏ và nền trắng, với một dấu chéo màu đỏ ở giữa. Biển này thường được sử dụng để cấm các phương tiện đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_12_2_0.67.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn** với viền màu **đỏ**, nền màu **xanh dương**, và hình vẽ một dấu gạch chéo màu **đỏ** qua biểu tượng cấm cụ thể (ở đây là cấm xe tải)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_12_4_0.47.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo bên trong màu **trắng**. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_11_0.36.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng chữ nhật đứng, màu nền xanh dương đậm và chữ/các ký hiệu màu trắng. Nội dung trên biển báo cảnh báo về việc cấm các hoạt động hoặc phương tiện cụ thể (ví dụ: \"Đoạn đường này cấm xe tải\")."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_10_0.56.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh một chiếc xe tải bị chéo màu đỏ, biểu thị **cấm xe tải đi qua**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_14_1_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **nền vàng, chữ và viền đen**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_3_5_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn tốc độ tối đa**. Biển có hình dạng chữ nhật, màu xanh dương với chữ và số màu trắng. Nội dung trên biển là \"60\" (giới hạn tốc độ 60 km/h) và dòng chữ \"MAX SPEED LIMIT\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_13_5_0.41.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen chỉ ra hành động bị cấm. Biển báo này thường được sử dụng để cấm một số hoạt động hoặc phương tiện cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_9_2_0.54.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung trên biển báo là \"THUỐC XUẤT LỘC\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_1_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình mũi tên màu đen bên trong hình tròn, được chia cắt bởi một đường thẳng màu đỏ ngang qua. Biển báo này cấm rẽ phải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_10_0.41.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **hình tam giác với mũi tên chỉ hướng phải**, màu sắc **nền trắng, chữ và mũi tên màu xanh dương**. Biển báo này thường được sử dụng để chỉ hướng đi đến một địa điểm cụ thể hoặc tuyến đường cần theo."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_8_2_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình ảnh xe tải bị chéo màu đen ở giữa. Biển báo này cấm xe tải đi vào khu vực hoặc đường được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_2_0.71.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **hình vuông**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung biển báo cấm xe tải từ 0,75 tấn đến 0,9 tấn qua cầu quay."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_1_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo thời gian cấm**. Biển có **hình chữ nhật**, màu **đen nền với chữ và số màu trắng**, và nội dung ghi rõ các khung giờ cấm: \"6:00 - 9:00\" và \"16:00 - 19:30\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_13_0.57.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_5_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm người đi bộ qua đường**. Biển có hình tam giác, nền màu xanh dương, viền trắng, và hình ảnh một người đi bộ trên vạch kẻ đường màu trắng ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_6_2_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe đạp**, có hình dạng tròn với viền đỏ, nền trắng và hình ảnh xe đạp bị gạch斜 chéo màu đỏ."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_0_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển限速 (giới hạn tốc độ)**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"50\" màu đen ở giữa, chỉ định tốc độ tối đa cho phép là 50 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_8_0.39.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật** với **màu nền trắng và chữ đen**. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_8_0.49.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền trắng, nền đỏ và chữ số \"80\" màu đen ở giữa, chỉ định tốc độ tối đa cho phép là 80 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_1_0.83.jpg",
+        "caption": "Biển báo trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"80\" màu đen ở giữa. Biển báo này cảnh báo người điều khiển phương tiện không được vượt quá tốc độ 80 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_1_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** và màu sắc **xanh dương nền với chữ và hình vẽ màu trắng**. Biển báo này thường được sử dụng để cấm một số hành động hoặc phương tiện tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_1_5_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh một chiếc xe tải kèm dòng chữ \"1,5t\" (chỉ cấm xe tải có tải trọng trên 1,5 tấn). Biển báo này dùng để cấm các phương tiện tải trọng vượt quá mức quy định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_10_0_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường** (hoặc biển chỉ hướng). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và mũi tên chỉ hướng màu **trắng**. Biển cung cấp thông tin về các địa điểm như \"Cảng Cá Tiên Sơn\", \"Hồng Quỳnh\", \"Nhà Tưởng Niệm Nguyễn Đức Cảnh\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_6_2_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển限速 (giới hạn tốc độ)**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"40\" màu đen ở giữa, chỉ định tốc độ tối đa cho phép là 40 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_3_3_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng** và có hình vẽ một dấu chéo màu **đỏ** qua biểu tượng hoặc ký hiệu cần cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_1_3_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe đạp**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình ảnh xe đạp bị vẽ đường chéo màu đỏ để chỉ cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_1_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm xe cơ giới**. Biển có hình dạng **chữ nhật**, màu sắc **đỏ viền trắng**, và có hình ảnh biểu tượng của một chiếc xe cơ giới bị chéo斜."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_2_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"50\" màu đen ở giữa. Biển báo này cảnh báo người điều khiển phương tiện không được vượt quá tốc độ 50 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_6_0.46.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen với số \"40\" ở giữa, biểu thị tốc độ tối đa được phép là 40 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_11_3_0.62.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải bị chéo màu **đen** ở giữa, biểu thị cấm xe tải đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_4_1_0.82.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo chỉ dẫn** (hoặc biển báo thông tin), có hình dạng **hình chữ nhật**, màu sắc **nền đen chữ trắng**. Nội dung biển báo là \"XE BUÝT - ĐƯỢC PHÉP HOẠT ĐỘNG\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_2_2_0.63.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng chữ nhật đứng, màu nền xanh dương đậm và chữ trắng. Nội dung trên biển báo là \"BÁNH HÀNG THÀNH THỐNG CHUYÊN CUNG CẤP\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_8_0_0.72.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe có chiều dài vượt quá 8 mét**. Biển có hình dạng tròn, viền đỏ, nền trắng và nội dung đen (hình hai xe và chữ \"8 m\")."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_11_1_0.87.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình vuông**, màu sắc **nền đỏ, chữ và viền đen**. Nội dung biển báo cấm các phương tiện theo quy định cụ thể được nêu trên biển."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_4_0.77.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn tốc độ**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và số màu trắng**. Nội dung trên biển báo là \"50 km/h\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_11_0.72.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **chữ nhật** và màu sắc **đỏ nền với chữ trắng**. Nội dung trên biển báo là \"CẤM TÔI HÀN\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_1_0.67.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo đường cong liên tiếp**. Biển có **hình tam giác** với **màu vàng nền và viền đen**, bên trong là hình hai đường cong liên tiếp."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_7_0_0.77.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình chữ thập đỏ. Biển này thường được sử dụng để cấm xe đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_14_0.41.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình chữ thập màu đỏ. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_7_4_0.48.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen bên trong. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_9_0_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình mũi tên chỉ sang phải bị đánh dấu bằng đường chéo màu đỏ, biểu thị **cấm rẽ phải**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_13_2_0.54.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"60\" màu đen ở giữa, thể hiện tốc độ tối đa cho phép là 60 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_5_7_0.45.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen chỉ ra một hành động bị cấm. Biển báo này thường được sử dụng để thông báo các quy định cấm特定 hành động hoặc phương tiện."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_10_0_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo giới hạn tốc độ** và **biển báo tên đường cao tốc**.  \n- **Hình dạng**: Biển giới hạn tốc độ có hình tròn, còn biển tên đường cao tốc có hình chữ nhật.\n- **Màu sắc**: Biển giới hạn tốc độ có nền đỏ, chữ số màu trắng; biển tên đường cao tốc có nền xanh lá cây, chữ và biểu tượng màu trắng.  \n\nBiển này thông báo rằng đây là cao tốc Cam Lâm - Vĩnh Hảo (Expressway), với tốc độ tối đa cho xe ô tô là **90 km/h** và tốc độ tối đa cho xe máy là **60 km/h**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_9_3_0.72.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo nguy hiểm**, có hình dạng tam giác với viền màu đỏ và nền màu vàng. Nội dung trên biển là biểu tượng người đi bộ, cảnh báo người điều khiển phương tiện cần chú ý khu vực có người đi bộ."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_4_3_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền xanh dương, bên trong có hình dấu chéo màu đỏ. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_1_3_0.52.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **chữ nhật**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung biển báo cấm xe tải, xe hoạt động công ích (xe khách) đi vào khu vực指定."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_1_4_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng** và có hình ảnh biểu tượng của xe ô tô và xe máy bị gạch chéo, thể hiện việc cấm các phương tiện này đi vào khu vực."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_12_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa. Biển báo này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_9_0_0.85.jpg",
+        "caption": "Biển báo là **biển cấm rẽ phải**, có hình dạng tròn với viền đỏ và một đường chéo màu đỏ qua hình mũi tên chỉ về bên phải. Biển báo này cấm các phương tiện rẽ phải tại vị trí này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_1_0_0.8.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **xanh dương** và có một dấu **gạch chéo màu đỏ** qua hình ảnh biểu tượng (dấu gạch chéo này thường được dùng để chỉ \"cấm\"). Biển báo này cấm xe đi vào hoặc dừng đỗ tại khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_7_2_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **xanh dương nền với chữ và ký hiệu màu trắng**. Nội dung biển báo hướng dẫn về tuyến đường hoặc địa điểm cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_10_4_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật** và màu sắc **xanh dương nền với chữ và hình vẽ màu trắng**. Biển báo này cấm các phương tiện đi vào hoặc dừng lại tại khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_10_0.65.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm xe cơ giới**. Biển có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **xanh dương**, và bên trong là hình ảnh một chiếc xe cơ giới với mũi tên chỉ lên trên, biểu thị cấm xe cơ giới đi theo hướng đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_10_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ nền với chữ và hình vẽ màu trắng**. Nội dung trên biển báo cấm xe tải và xe chở hàng hóa nặng."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_12_0.76.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung trên biển báo là \"CHÁO Ô LON RÀ LUÔN\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_3_5_0.46.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật** với **màu nền đỏ**, viền trắng và chữ \"CẤM\" màu trắng ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_11_0.4.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một người đi bộ bị **gạch chéo** màu **đỏ** ở giữa, biểu thị cấm người đi bộ."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_15_0_0.89.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo nguy hiểm**, có hình dạng tam giác đều, màu nền là vàng và viền đen. Nội dung trên biển là một hình chữ nhật đen nằm ngang, biểu thị đường sụt lún hoặc hố sâu trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_12_0.48.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng chữ nhật đứng, màu nền xanh dương đậm và chữ/cử chỉ màu trắng. Biển báo này cấm các phương tiện như ô tô, xe tải và xe máy đi vào khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_10_0_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **tròn** với viền đỏ và nền trắng, bên trong có hình mũi tên quay xuống bị đánh dấu bằng đường chéo màu đỏ, biểu thị **cấm rẽ phải hoặc cấm quay đầu xe**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_0_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm chiều cao vượt quá giới hạn**. Biển có **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu một đường thẳng ngang với số \"4,3m\" bên dưới, chỉ rõ chiều cao tối đa cho phép là 4,3 mét."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_5_1_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm xe tải**. Biển có hình dạng chữ nhật, màu nền xanh dương, chữ và hình vẽ màu trắng, kèm theo thời gian cấm từ 6:00 đến 22:00."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_4_8_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng**. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_1_0.73.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình tam giác đen chỉ hướng phải, biểu thị **cấm rẽ phải**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_19_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là một vòng tròn màu đỏ. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_6_4_0.74.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình chữ nhật đứng, màu nền đỏ với chữ và số màu trắng. Nội dung biển báo cấm xe gắn máy đi thẳng từ 23:00 đến 04:00."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_5_0.43.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hình chữ nhật màu **đen** ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_1_3_0.84.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình chữ nhật**, màu sắc **nền trắng, chữ và đường viền đen**. Nội dung biển báo cấm xe tải có trọng lượng từ 30 chỗ trở lên (trừ xe buýt hợp đồng và xe du lịch) và xe tải có tải trọng từ 10 tấn trở lên đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_3_3_0.58.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị **cấm xe tải** đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_2_5_0.36.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe hơi bị chéo màu **đen** ở giữa. Biển báo này thông báo rằng việc đi vào hoặc dừng đỗ xe tại khu vực này bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_8_0.66.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật**, màu sắc **đen nền với chữ và số trắng**. Nội dung trên biển báo là \"200m\", cho biết khoảng cách đến vị trí bắt đầu hoặc kết thúc của lệnh cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_5_0.74.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền xanh dương, bên trong là hình tam giác màu trắng. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_25_0.37.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo đường cong liên tiếp**. Biển có **hình tam giác** với **màu vàng nền và viền đen**, bên trong là hình hai đường cong liên tiếp."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_7_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải bị chéo màu **đen** ở giữa, biểu thị cấm xe tải đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_3_1_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật** với góc trên bên phải bị cắt cụp. Màu sắc của biển là **xanh dương đậm** với chữ và hình vẽ màu **trắng**. Nội dung biển báo cấm xe tải (xe có tải trọng lớn) đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_1_0.86.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **hình chữ nhật**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung biển báo cấm xe tải có tải trọng trên 2 tấn đi vào khu vực."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_4_0.72.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_11_1_0.55.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ** với viền trắng và hình chữ nhật dọc màu đỏ ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_4_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng tròn, viền trắng, nền đỏ và chữ số \"50\" màu đen ở giữa, chỉ định tốc độ tối đa cho phép là 50 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_7_0_0.58.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo đường cong phải**, có hình dạng tam giác chỉa góc phải, màu nền là **vàng** và viền đen. Biển này cảnh báo người điều khiển phương tiện cần chú ý đường cong sắp tới để lái xe an toàn."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_3_1_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình tròn**, màu sắc **phủ nền trắng với viền đỏ** và có hình chữ thập đỏ ở giữa. Nội dung trên biển báo là \"5K\" (có thể liên quan đến giới hạn tốc độ hoặc một quy định cụ thể)."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_15_0.37.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng **chữ nhật**, màu sắc **đỏ viền trắng** và nội dung \"CẤM XE CÔ BẢNH\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_13_0.57.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hình tam giác đen ở giữa. Biển báo này thường dùng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_8_2_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **xanh dương**, và có ký hiệu **hai dấu X chéo nhau** ở giữa. Biển này thường được sử dụng để cấm tất cả các phương tiện đi vào hoặc qua khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_5_0.76.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm** (đường cấm), có hình dạng **hình vuông**, màu sắc **nền trắng, chữ và viền đen**, và nội dung \"100m\" để chỉ khoảng cách đến điểm bắt đầu đường cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_5_4_0.54.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **chữ nhật đứng**, màu sắc **đỏ nền với chữ và hình vẽ màu trắng**. Nội dung biển báo cấm xe tải, xe chở hàng hóa, xe khách, xe buýt, xe cứu hỏa, xe cứu thương, xe công an, xe quân đội, xe cứu hộ, xe cứu nạn, xe thí nghiệm, xe chuyên dụng, xe đặc chủng, xe cơ giới, xe máy kéo, xe máy xúc, xe máy ủi, xe máy bơm, xe máy ép, xe máy múc, xe máy nén, xe máy nâng, xe máy cẩu, xe máy bốc dỡ, xe máy đào, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy khoan, xe máy cắt, xe máy đục, xe máy kho"
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_5_0.55.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_2_0_0.86.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen. Biển báo này thường được sử dụng để cấm xe đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_9_7_0.49.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật**, màu sắc **đen nền trắng**. Nội dung biển báo cấm xe hai và ba bánh đi vào khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_2_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm** (prohibition sign), có hình dạng **bát giác**, màu sắc **xanh dương đậm** với hình vẽ một cây xăng màu đen ở giữa, biểu thị **cấm dừng hoặc đỗ xe gần nơi có cây xăng**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_8_0.7.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tam giác đều, màu nền xanh dương và chữ \"C\" màu trắng ở giữa. Biển báo này thường được sử dụng để cấm các phương tiện đi vào hoặc qua khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_3_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh một chiếc xe tải bị chéo斜 (dấu hiệu cấm). Biển báo này thông báo **cấm xe tải đi qua khu vực này**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_9_6_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải bị chéo màu **đen** ở giữa, biểu thị cấm xe tải đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_13_4_0.47.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình tam giác đen chỉ ra hướng cấm. Biển báo này thường được sử dụng để cấm xe đi theo hướng chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_15_0_0.79.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình người kéo xe đẩy bị đánh dấu bằng đường chéo màu đỏ. Biển báo này cấm việc sử dụng xe đẩy hoặc các phương tiện tương tự trên đoạn đường này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_3_4_0.38.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo số hiệu đường**, có hình dạng **hình chữ nhật**, màu sắc **nền trắng với chữ và số đen**. Số hiệu đường được hiển thị là **033888855**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_4_12_0.36.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_7_0.58.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe bị **gạch chéo** màu **đỏ** ở giữa, biểu thị cấm xe đi vào hoặc dừng lại tại khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_12_0.44.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình chữ nhật đứng**, màu sắc **đỏ viền trắng**. Nội dung trên biển báo cấm các phương tiện vận tải hàng hóa (xe tải) và xe buýt."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_11_6_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tam giác đều, màu sắc nền đỏ và viền trắng, với biểu tượng hình người ngồi (chữ \"Q\" bên trong) ở giữa, báo hiệu cấm người đi bộ."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_4_8_0.43.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** với **màu nền trắng**, viền **đen**, và chữ/cảnh báo bên trong là **chữ đen**. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_3_2_0.77.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo tốc độ tối đa** (SLOW). Biển có hình dạng **hình chữ nhật**, màu sắc **trắng nền với chữ đen**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_4_0.52.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ số màu **đen** ở giữa (trong trường hợp này là \"40\"). Biển báo này thường dùng để cấm một hành động hoặc điều kiện cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_12_0_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển chỉ dẫn đường cao tốc** (Expressway). Biển có **hình chữ nhật**, màu nền **xanh dương**, chữ và số màu **trắng**, với các thông tin về hướng đi đến **Quảng Ninh** và **Hải Phòng**, cùng giới hạn tốc độ (**80 km/h** và **60 km/h**) được hiển thị rõ ràng."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_9_1_0.76.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cảnh báo nguy hiểm**, có hình dạng **chữ nhật** với góc bo tròn, màu nền **vàng** và viền **đen**. Biểu tượng trên biển là một chiếc xe tải bị hỏng, cảnh báo người điều khiển phương tiện cần chú ý có thể gặp xe hỏng hoặc sự cố trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_13_0.31.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_11_5_0.4.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ viết màu **đen** ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_1_2_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong có hình ảnh xe buýt và xe tải bị đánh dấu bằng đường chéo màu đỏ, biểu thị cấm xe buýt và xe tải đi qua khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_6_1_0.78.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng tam giác đều, màu nền là vàng và viền đen, với hình vẽ một chiếc xe hơi màu đen ở giữa. Biển báo này thường được sử dụng để cấm các phương tiện lưu thông theo hướng chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_13_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình chữ nhật** và màu sắc **đỏ viền trắng**. Nội dung trên biển báo cấm xe ô tô và xe buýt."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_4_0_0.83.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **hình chữ nhật** và màu sắc **xanh dương nền với các biểu tượng màu trắng**. Biển báo này cấm xe ô tô, xe máy và xe đạp đi vào khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_11_3_0.82.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ **trắng** trên nền đỏ. Nội dung trên biển báo là \"Cấm xe tải\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_5_0_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển giới hạn tốc độ**, có hình dạng **tròn**, viền đỏ, nền trắng và chữ số \"50\" màu đen ở giữa. Biển báo này cấm các phương tiện đi với tốc độ vượt quá 50 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_2_0_0.85.jpg",
+        "caption": "Biển báo trong ảnh là **biển báo cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và chữ/cảnh báo màu **đen**. Nội dung trên biển báo là \"CẤM MỞ VAS\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_12_3_0.47.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng chữ nhật** và màu sắc **đen nền với chữ và hình vẽ màu trắng**. Biển báo này thường được sử dụng để cấm một số hành động hoặc phương tiện tại khu vực cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_8_7_0.42.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen với ký hiệu \"K7\" (cấm xe tải). Biển báo này cấm các phương tiện thuộc loại K7 (xe tải) đi vào khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_9_1_0.35.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe tải màu đen ở giữa, biểu thị cấm xe tải đi vào khu vực này."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_12_10_0.67.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **chữ nhật**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung trên biển báo cấm xe tải (HGV) và xe chở hàng hóa nặng (LGV) đi vào khu vực được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_1_0_0.88.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo thời gian cấm**. Biển có hình dạng **hình chữ nhật**, màu sắc **đen nền với chữ và số màu trắng**. Nội dung biển báo chỉ rõ các khung giờ cấm cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_9_0_0.68.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền xanh dương, bên trong có dấu \"X\" màu trắng. Biển báo này thường được sử dụng để cấm một hành động hoặc phương tiện cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_2_3_0.7.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_3_2_0_0.89.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng. Biển báo này cấm xe tải và xe con lưu thông trên đoạn đường được đánh dấu."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_3_1_0.81.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **bảng tròn**, viền màu **đỏ**, nền màu **xanh dương** và chữ/cảnh báo màu **trắng**. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_12_6_0.59.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **hình chữ nhật đứng**, màu sắc **xanh dương nền với chữ và số màu trắng**. Biển báo này cung cấp thông tin về hướng đi đến các địa điểm như \"Trạm Dừng Xe Buýt\" và \"Cao Gó Mai Sơn\", cách đó **750 m**."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_11_7_0.52.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và hình ảnh xe máy bị vẽ đường chéo màu đỏ qua. Biển báo này cấm xe máy đi vào khu vực hoặc đoạn đường được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_14_0.53.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền màu xanh dương, bên trong là dấu \"X\" màu trắng. Biển này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_2_1_0.85.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình tam giác đen. Biển báo này thường được sử dụng để cấm xe đi vào hoặc dừng lại tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_13_4_0.35.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo tốc độ tối đa**, có hình dạng tròn, viền đỏ, nền trắng và chữ số \"60\" màu đen ở giữa, chỉ định tốc độ tối đa cho phép là 60 km/h."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_5_2_2_0.71.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ đen ở giữa. Biển này thường dùng để cấm một hành động hoặc phương tiện cụ thể."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_6_4_0.38.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ/cảnh báo màu **trắng** trên nền đỏ. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể tại khu vực đó."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_2_3_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển cấm**, có hình dạng **hình tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hình chữ nhật màu **xanh dương** bên trong biểu thị cấm xe tải."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_6_3_0.7.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có ký hiệu hoặc chữ màu **đen** ở giữa. Biển báo này thường được sử dụng để cấm một hành động hoặc hoạt động cụ thể trên đường."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_6_8_1_0.86.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo chỉ dẫn đường**, có hình dạng **hình chữ nhật** với **màu nền xanh dương** và chữ viết màu trắng. Nội dung biển báo hướng dẫn các tuyến đường cụ thể như \"QUỐC LỘ 5\" và \"CHUYÊN XE CARGO\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_8_7_3_0.69.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ một chiếc xe hơi bị gạch chéo màu **đen**. Biển này thông báo cấm xe cơ giới đi vào khu vực hoặc đường được chỉ định."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_7_7_0_0.75.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **vuông**, màu sắc **đỏ viền trắng** và chữ đen. Nội dung trên biển báo là \"CẤM XE MÁY\" và \"CẤM XE HƠI\"."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_7_6_0.57.jpg",
+        "caption": "Biển báo trong ảnh là **biển cấm**, có hình dạng tròn với viền đỏ và nền trắng, bên trong là hình chữ nhật dọc màu đen với dòng chữ \"KIỂM TRA\" màu đen. Biển báo này thường được sử dụng để thông báo khu vực kiểm tra hoặc giám sát."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_2_5_10_0.34.jpg",
+        "caption": "Biển báo giao thông trong ảnh là **biển báo cấm**, có hình dạng **tròn**, viền màu **đỏ**, nền màu **trắng**, và có hình vẽ hoặc chữ màu **đen** ở giữa để chỉ rõ hành động bị cấm."
+    },
+    {
+        "image": "/home/jovyan/chien/vlsp/VLSP 2025 - MLQA-TSR Data Release/test_v1/public_test_cropped/public_test_4_7_2_0.61.jpg",
+        "caption": "Biển báo trong ảnh là **biển chỉ dẫn đường**, có hình dạng **hình chữ nhật**, màu sắc **nền xanh dương đậm với chữ và số màu trắng**. Biển báo này cung cấp thông tin về hướng đi đến các địa điểm như \"Hoàng Kim\" và \"Chợ Phước Long\"."
+    }
+]
